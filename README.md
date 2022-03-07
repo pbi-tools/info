@@ -6,6 +6,8 @@
 
 ![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/pbi-tools/pbi-tools/latest/total?style=flat-square)
 
+![GitHub release (by tag)](https://img.shields.io/github/downloads/pbi-tools/pbi-tools/1.0.0-beta.8/total)
+
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/pbi-tools/pbi-tools/1.0.0-beta.7/total)
 
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/pbi-tools/pbi-tools/1.0.0-beta.6/total)
