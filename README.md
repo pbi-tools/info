@@ -1,6 +1,6 @@
 # TOM NuGets
 
-![NuGet Version](https://img.shields.io/nuget/v/Microsoft.AnalysisServices.NetCore.retail.amd64?style=flat-square&label=Microsoft.AnalysisServices.NetCore.retail.amd64)
+![NuGet Version](https://img.shields.io/nuget/v/Microsoft.AnalysisServices?style=flat-square&label=Microsoft.AnalysisServices)
 
 # pbi-tools Downloads
 
